@@ -1,0 +1,15 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg"><rect id="B0" x="0.0" y="0.0" width="0" height="0" fill="rgb(0.0,0.0,0.0)" visibility="visible">
+<animate attributeType="xml" begin="20.0ms" dur="0.0ms" attributeName="width" from="100" to="100" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="0.0ms" attributeName="height" from="326" to="326" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="0.0ms" attributeName="x" from="80" to="80" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="0.0ms" attributeName="y" from="424" to="424" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="0.0ms" attributeName="fill" from="rgb(0,0,0)" to="rgb(0,0,0)" fill="freeze" />
+<animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0.0 130 587" to="0.0 130 587" begin="20.0ms" dur="0.0ms"/>
+<animate attributeType="xml" begin="20.0ms" dur="3980.0ms" attributeName="width" from="100" to="200" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="3980.0ms" attributeName="height" from="326" to="150" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="3980.0ms" attributeName="x" from="80" to="200" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="3980.0ms" attributeName="y" from="424" to="200" fill="freeze" />
+<animate attributeType="xml" begin="20.0ms" dur="3980.0ms" attributeName="fill" from="rgb(0,0,0)" to="rgb(100,100,100)" fill="freeze" />
+<animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0.0 300 275" to="180.0 300 275" begin="20.0ms" dur="3980.0ms"/>
+</rect>
+</svg>

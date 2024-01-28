@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DecoupledExcellence:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecoupledExcellence_jar</output-path>
+    <root id="archive" name="DecoupledExcellence.jar">
+      <element id="module-output" name="DecoupledExcellence" />
+    </root>
+  </artifact>
+</component>
